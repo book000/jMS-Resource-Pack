@@ -1,0 +1,43 @@
+{
+    "parent": "item/handheld_crossbow", 
+    "textures": {
+        "layer0": "item/crossbow_standby"
+    },
+    "overrides": [
+		{ "predicate": {"pulling": 1}, "model": "item/crossbow_pulling_0"},
+		{ "predicate": {"pulling": 1, "pull": 0.58}, "model": "item/crossbow_pulling_1"},
+		{ "predicate": {"pulling": 1, "pull": 1.0}, "model": "item/crossbow_pulling_2"},
+		{ "predicate": {"charged": 1}, "model": "item/crossbow_arrow"},
+		{ "predicate": {"charged": 1 , "firework": 1}, "model": "item/crossbow_firework"},
+
+		{ "predicate": {"custom_model_data": 1}, "model": "item/3dmodel/weapon/re_cross_hookshot/true"},
+		{ "predicate": {"custom_model_data": 1,"charged": 1}, "model": "item/3dmodel/weapon/re_cross_hookshot/true_charged"},
+
+		{ "predicate": {"custom_model_data": 2}, "model": "item/3dmodel/weapon/pig_launcher_reload"},
+		{ "predicate": {"custom_model_data": 2,"charged": 1}, "model": "item/3dmodel/weapon/pig_launcher"},
+
+		{ "predicate": {"custom_model_data": 3}, "model": "item/3dmodel/weapon/ordinary_pistol"},
+
+		{ "predicate": {"custom_model_data": 4}, "model": "item/3dmodel/weapon/hyper_celebrator/close"},
+		{ "predicate": {"custom_model_data": 4,"charged": 1}, "model": "item/3dmodel/weapon/hyper_celebrator/open"},
+
+		{ "predicate": {"custom_model_data": 5}, "model": "item/3dmodel/weapon/world_enchanter/close"},
+		{ "predicate": {"custom_model_data": 5,"charged": 1}, "model": "item/3dmodel/weapon/world_enchanter/open"},
+
+		{ "predicate": {"custom_model_data": 6}, "model": "item/3dmodel/weapon/re_cross_hookshot/basic"},
+		{ "predicate": {"custom_model_data": 6,"charged": 1}, "model": "item/3dmodel/weapon/re_cross_hookshot/basic_charged"},
+
+		{ "predicate": {"custom_model_data": 7}, "model": "item/3dmodel/weapon/re_cross_hookshot/true_charged_pull"},
+
+		{ "predicate": {"custom_model_data": 8}, "model": "item/3dmodel/weapon/re_cross_hookshot/basic_charged_pull"},
+
+		{ "predicate": {"custom_model_data": 9}, "model": "item/3dmodel/weapon/revo_reloader/reload"},
+		{ "predicate": {"custom_model_data": 9,"charged": 1}, "model": "item/3dmodel/weapon/revo_reloader/normal"},
+
+		{ "predicate": {"custom_model_data": 10}, "model": "item/3dmodel/weapon/revo_reloader/ads_reload"},
+		{ "predicate": {"custom_model_data": 10,"charged": 1}, "model": "item/3dmodel/weapon/revo_reloader/ads"},
+
+		{ "predicate": {"custom_model_data": 11}, "model": "item/3dmodel/weapon/revo_reloader/holo"}
+
+	]
+}

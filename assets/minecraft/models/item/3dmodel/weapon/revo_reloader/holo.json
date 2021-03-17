@@ -1,0 +1,17 @@
+{
+    "parent": "item/3dmodel/weapon/revo_reloader/normal",
+	"textures": {
+		"1": "custom_item/revo_reloader/tech_glow_holo",
+		"3": "custom_item/revo_reloader/tech_glow_holo"
+	},
+        "display": {
+			"firstperson_righthand": {
+				"rotation": [-20, 65, 0],
+				"translation": [-3, 5, 1]
+			},
+			"firstperson_lefthand": {
+				"rotation": [-20, 65, 0],
+				"translation": [-3, 5, 1]
+			}
+    }
+}

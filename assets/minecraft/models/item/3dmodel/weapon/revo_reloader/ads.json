@@ -1,0 +1,13 @@
+{
+    "parent": "item/3dmodel/weapon/revo_reloader/normal",
+        "display": {
+			"firstperson_righthand": {
+				"rotation": [0, -10, 0],
+				"translation": [0.85, 15.6, 2.5]
+			},
+			"firstperson_lefthand": {
+				"rotation": [0, -10, 0],
+				"translation": [0.85, 6, 2.5]
+			}
+    }
+}

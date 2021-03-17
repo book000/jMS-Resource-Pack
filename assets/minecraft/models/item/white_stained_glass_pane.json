@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "block/white_stained_glass"
+	},
+	"overrides": [
+	{"predicate": {"custom_model_data": 1},"model": "item/3dmodel/other/custom_crafter"},
+	{"predicate": {"custom_model_data": 2},"model": "item/2d/misc/transparent"}
+
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"parent": "minecraft:block/slab",
+	"textures": {
+		"bottom": "custom_item/glint_block",
+		"top": "custom_item/glint_block",
+		"side": "custom_item/glint_block"
+	},
+	"display": {
+		"head": {
+			"translation": [0, -14.65, 0],
+			"scale": [2.287, 2.3, 2.287]
+		}
+	}
+}
