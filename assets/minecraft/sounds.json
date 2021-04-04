@@ -1,1 +1,44 @@
-{ "custom.msignal1": { "category": "block", "sounds": [ "custom/signal1" ] },"custom.msignal2": { "category": "block", "sounds": [ "custom/signal2" ] },"custom.msignal3": { "category": "block", "sounds": [ "custom/signal3" ] },"custom.msignal4": { "category": "block", "sounds": [ "custom/signal4" ] },"custom.msignal5": { "category": "block", "sounds": [ "custom/signal5" ] },"custom.msignal6": { "category": "block", "sounds": [ "custom/signal6" ] },"custom.msignal7": { "category": "block", "sounds": [ "custom/signal7" ] } }
+{
+    "jaoafa.trains.msignal1": {
+        "category": "block",
+        "sounds": [
+            "jaoafa/trains/signal1"
+        ]
+    },
+    "jaoafa.msignal2": {
+        "category": "block",
+        "sounds": [
+            "jaoafa/trains/signal2"
+        ]
+    },
+    "jaoafa.msignal3": {
+        "category": "block",
+        "sounds": [
+            "jaoafa/trains/signal3"
+        ]
+    },
+    "jaoafa.msignal4": {
+        "category": "block",
+        "sounds": [
+            "jaoafa/trains/signal4"
+        ]
+    },
+    "jaoafa.msignal5": {
+        "category": "block",
+        "sounds": [
+            "jaoafa/trains/signal5"
+        ]
+    },
+    "jaoafa.msignal6": {
+        "category": "block",
+        "sounds": [
+            "jaoafa/trains/signal6"
+        ]
+    },
+    "jaoafa.msignal7": {
+        "category": "block",
+        "sounds": [
+            "jaoafa/trains/signal7"
+        ]
+    }
+}
