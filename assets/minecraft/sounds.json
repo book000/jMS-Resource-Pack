@@ -40,5 +40,11 @@
         "sounds": [
             "jaoafa/trains/signal7"
         ]
+    },
+    "jaoafa.kohona.toryanse_ko21": {
+        "category": "record",
+        "sounds": [
+            "jaoafa/trains/kohona/toryanse_ko21"
+        ]
     }
 }
