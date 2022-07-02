@@ -1,50 +1,50 @@
 {
-    "jaoafa.trains.msignal1": {
-        "category": "block",
+    "jaoafa.micni.msignal1": {
+        "category": "record",
         "sounds": [
-            "jaoafa/trains/signal1"
+            "jaoafa/micni/signal1"
         ]
     },
-    "jaoafa.msignal2": {
-        "category": "block",
+    "jaoafa.micni.msignal2": {
+        "category": "record",
         "sounds": [
-            "jaoafa/trains/signal2"
+            "jaoafa/micni/signal2"
         ]
     },
-    "jaoafa.msignal3": {
-        "category": "block",
+    "jaoafa.micni.msignal3": {
+        "category": "record",
         "sounds": [
-            "jaoafa/trains/signal3"
+            "jaoafa/micni/signal3"
         ]
     },
-    "jaoafa.msignal4": {
-        "category": "block",
+    "jaoafa.micni.msignal4": {
+        "category": "record",
         "sounds": [
-            "jaoafa/trains/signal4"
+            "jaoafa/micni/signal4"
         ]
     },
-    "jaoafa.msignal5": {
-        "category": "block",
+    "jaoafa.micni.msignal5": {
+        "category": "record",
         "sounds": [
-            "jaoafa/trains/signal5"
+            "jaoafa/micni/signal5"
         ]
     },
-    "jaoafa.msignal6": {
-        "category": "block",
+    "jaoafa.micni.signal6": {
+        "category": "record",
         "sounds": [
-            "jaoafa/trains/signal6"
+            "jaoafa/micni/signal6"
         ]
     },
-    "jaoafa.msignal7": {
-        "category": "block",
+    "jaoafa.micni.signal7": {
+        "category": "record",
         "sounds": [
-            "jaoafa/trains/signal7"
+            "jaoafa/micni/signal7"
         ]
     },
     "jaoafa.kohona.toryanse_ko21": {
         "category": "record",
         "sounds": [
-            "jaoafa/trains/kohona/toryanse_ko21"
+            "jaoafa/kohona/toryanse_ko21"
         ]
     }
 }
