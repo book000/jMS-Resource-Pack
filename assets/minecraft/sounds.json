@@ -1,29 +1,29 @@
 {
-    "jaoafa.micni.msignal1": {
+    "jaoafa.micni.signal1": {
         "category": "record",
         "sounds": [
             "jaoafa/micni/signal1"
         ]
     },
-    "jaoafa.micni.msignal2": {
+    "jaoafa.micni.signal2": {
         "category": "record",
         "sounds": [
             "jaoafa/micni/signal2"
         ]
     },
-    "jaoafa.micni.msignal3": {
+    "jaoafa.micni.signal3": {
         "category": "record",
         "sounds": [
             "jaoafa/micni/signal3"
         ]
     },
-    "jaoafa.micni.msignal4": {
+    "jaoafa.micni.signal4": {
         "category": "record",
         "sounds": [
             "jaoafa/micni/signal4"
         ]
     },
-    "jaoafa.micni.msignal5": {
+    "jaoafa.micni.signal5": {
         "category": "record",
         "sounds": [
             "jaoafa/micni/signal5"
