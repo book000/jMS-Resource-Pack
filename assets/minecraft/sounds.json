@@ -41,10 +41,10 @@
             "jaoafa/micni/signal7"
         ]
     },
-    "jaoafa.kohona.toryanse_ko21": {
+    "jaoafa.kohona.test.toryanse_ko21": {
         "category": "record",
         "sounds": [
-            "jaoafa/kohona/toryanse_ko21"
+            "jaoafa/kohona/test/toryanse_ko21"
         ]
     }
 }
