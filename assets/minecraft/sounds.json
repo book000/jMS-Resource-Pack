@@ -1,50 +1,74 @@
 {
     "jaoafa.micni.signal1": {
-        "category": "record",
+        "subtitle": "信号機の実音（青になるまでお待ちください）",
         "sounds": [
-            "jaoafa/micni/signal1"
+            {
+                "name": "jaoafa/micni/signal1",
+                "stream": true
+            }
         ]
     },
     "jaoafa.micni.signal2": {
-        "category": "record",
+        "subtitle": "信号機の実音（ピンポン 信号が青になりました）",
         "sounds": [
-            "jaoafa/micni/signal2"
+            {
+                "name": "jaoafa/micni/signal2",
+                "stream": true
+            }
         ]
     },
     "jaoafa.micni.signal3": {
-        "category": "record",
+        "subtitle": "信号機の実音（ピヨ？）",
         "sounds": [
-            "jaoafa/micni/signal3"
+            {
+                "name": "jaoafa/micni/signal3",
+                "stream": true
+            }
         ]
     },
     "jaoafa.micni.signal4": {
-        "category": "record",
+        "subtitle": "信号機の実音（信号が赤になります 横断をやめてください）",
         "sounds": [
-            "jaoafa/micni/signal4"
+            {
+                "name": "jaoafa/micni/signal4",
+                "stream": true
+            }
         ]
     },
     "jaoafa.micni.signal5": {
-        "category": "record",
+        "subtitle": "信号機の実音（通りゃんせ）",
         "sounds": [
-            "jaoafa/micni/signal5"
+            {
+                "name": "jaoafa/micni/signal5",
+                "stream": true
+            }
         ]
     },
     "jaoafa.micni.signal6": {
-        "category": "record",
+        "subtitle": "信号機の実音（カッコー カカコー）",
         "sounds": [
-            "jaoafa/micni/signal6"
+            {
+                "name": "jaoafa/micni/signal6",
+                "stream": true
+            }
         ]
     },
     "jaoafa.micni.signal7": {
-        "category": "record",
+        "subtitle": "信号機の実音（ピヨ ピヨピヨ）",
         "sounds": [
-            "jaoafa/micni/signal7"
+            {
+                "name": "jaoafa/micni/signal7",
+                "stream": true
+            }
         ]
     },
     "jaoafa.kohona.test.toryanse_ko21": {
-        "category": "record",
+        "subtitle": "信号機の再現音（通りゃんせ）",
         "sounds": [
-            "jaoafa/kohona/test/toryanse_ko21"
+            {
+                "name": "jaoafa/kohona/test/toryanse_ko21",
+                "stream": true
+            }
         ]
     }
 }
